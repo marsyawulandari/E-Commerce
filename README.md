@@ -152,9 +152,10 @@ Program menyediakan beberapa menu utama:
 
 # Anggota Kelompok
 
-- Nama Anggota 1
-- Nama Anggota 2
-- Nama Anggota 3
+- Alia Cintia Anjjali - 2025130047
+- Dela Salsabila - 20251320046
+- Hesti Julia Rohmah - 2025130067
+- Marsya Wulandari - 20251320054
 
 ---
 
