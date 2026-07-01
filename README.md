@@ -1,5 +1,5 @@
-#E-Commerce Shopping
-##Deskripsi
+# E-Commerce Shoppinh
+## Deskripsi
 
 Sistem E-Commerce Shopping merupakan aplikasi berbasis Command Line Interface (CLI) yang dikembangkan menggunakan bahasa C++. Program ini mensimulasikan proses operasional sebuah toko online dengan mengintegrasikan berbagai struktur data dan algoritma dalam satu aplikasi.
 
