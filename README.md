@@ -91,23 +91,20 @@ Menggunakan Dev-C++:
 
 # Cara Menjalankan Program
 
-Windows
+Windows (Command Prompt / PowerShell)
 
 ```bash
 ecommerce.exe
 ```
 
-atau
 
-```bash
-./ecommerce.exe
-```
-
-Linux / macOS
+Linux / macOS jika program kompatibel
 
 ```bash
 ./ecommerce
 ```
+Catatan:
+Jika menggunakan Dev-C++, program dapat langsung dijalankan melalui tombol Compile & Run (F11) tanpa perlu menjalankan perintah manual di terminal.
 
 ---
 
@@ -115,15 +112,15 @@ Linux / macOS
 
 Program menyediakan beberapa menu utama:
 
-1. Cari Produk
-2. Tambah Pelanggan ke Antrian
-3. Urutkan Prioritas Pelanggan
-4. Proses Pembayaran
-5. Batalkan Transaksi
-6. Lihat Ongkos Kirim
-7. Review Toko
-8. Lihat Antrian
-9. Keluar
+1.Cari & Lihat Produk
+2.Tambah Pelanggan ke Antrian
+3.Urutkan Antrian Prioritas Sultan
+4.Proses Antrian Berikutnya / Pembayaran
+5.Batalkan Transaksi Terakhir
+6.Lihat Peta Tarif Ongkir Logistik
+7.Menu Ulasan / Review Toko
+8.Lihat Antrian Saat Ini
+9.Keluar
 
 ---
 
@@ -150,15 +147,10 @@ Program menyediakan beberapa menu utama:
 
 # Repository
 
-Repository GitHub:
-
-```
-https://github.com/username/nama-repository](https://github.com/marsyawulandari/E-Commerce.git
-```
-
+GitHub Repository: E-Commerce Repository
 
 ---
 
 # Lisensi
 
-Repository ini dibuat untuk keperluan pembelajaran dan tugas mata kuliah Struktur Data.
+Project ini dibuat untuk keperluan pembelajaran dan penyelesaian tugas mata kuliah Struktur Data. Seluruh kode dan dokumentasi dalam repository ini digunakan untuk tujuan akademik.
