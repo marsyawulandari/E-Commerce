@@ -150,6 +150,10 @@ Program menyediakan beberapa menu utama:
 GitHub Repository: E-Commerce Repository
 
 ---
+# Status Repository
+Public (dapat diakses oleh siapa saja)
+
+---
 
 # Lisensi
 
