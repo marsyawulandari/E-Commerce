@@ -1,21 +1,19 @@
-# E-Commerce Shopping
-## Deskripsi
+#E_Commerce Shopping
+#Deskripsi
 
-Sistem E-Commerce Integrated Shopping merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa C++. Program ini mensimulasikan proses transaksi pada sebuah toko online dengan mengimplementasikan berbagai struktur data dalam satu aplikasi.
+Sistem E-Commerce Shopping merupakan aplikasi berbasis Command Line Interface (CLI) yang dikembangkan menggunakan bahasa C++. Program ini mensimulasikan proses operasional sebuah toko online dengan mengintegrasikan berbagai struktur data dan algoritma dalam satu aplikasi.
 
-Fitur utama yang tersedia antara lain:
+Fitur utama yang tersedia meliputi:
 
 - Pencarian produk
 - Manajemen antrian pelanggan
 - Prioritas pelanggan berdasarkan total transaksi
-- Pembayaran transaksi
+- Proses pembayaran
 - Pembatalan transaksi (Undo)
 - Perhitungan ongkos kirim
 - Sistem review pelanggan
 - Statistik review
-
-Program ini dikembangkan sebagai implementasi materi Struktur Data.
-
+Aplikasi ini dikembangkan sebagai implementasi materi Struktur Data, dengan menerapkan konsep Queue, Stack, Binary Search Tree (BST), Graph, dan Array untuk menyelesaikan berbagai kebutuhan sistem secara efisien.
 ---
 
 # Struktur Data yang Digunakan
@@ -42,7 +40,7 @@ Program ini dikembangkan sebagai implementasi materi Struktur Data.
 ```
 .
 ├── src/
-│   └── main.cpp
+│   └── E_Commerce.cpp
 ├── README.md
 └── (file pendukung lainnya)
 ```
@@ -51,7 +49,7 @@ Apabila seluruh source code berada pada satu file, struktur direktori dapat menj
 
 ```
 .
-├── main.cpp
+├── E_Commerce.cpp
 └── README.md
 ```
 
@@ -59,43 +57,35 @@ Apabila seluruh source code berada pada satu file, struktur direktori dapat menj
 
 # Branch Repository
 
-Repository menggunakan branch utama:
-
-```
-main
-```
+Repository ini menggunakan branch utama `main` sebagai branch produksi/stabil.
 
 ---
 
 # Prasyarat
 
-Sebelum menjalankan program, pastikan telah menginstal:
+Sebelum menjalankan program, pastikan telah menginstal salah satu environment berikut:
 
-- GCC / G++
-- MinGW (Windows)
+Untuk VS Code:
+- Visual Studio Code
+- Compiler C++ (GCC/G++ atau MinGW-w64 pada Windows)
 - Terminal / Command Prompt
 
-Cek versi compiler:
-
-```bash
-g++ --version
-```
+Untuk Dev-C++:
+- Dev-C++ (compiler sudah terintegrasi)
 
 ---
 
 # Cara Kompilasi
 
-Masuk ke folder project kemudian jalankan:
+Menggunakan VS Code:
+1. g++ E_Commerce.cpp -o ecommerce
+2. ./ecommerce
 
-```bash
-g++ main.cpp -o ecommerce
-```
+Menggunakan Dev-C++:
+1. Buka file E_Commerce.cpp
+2. Klik Compile & Run (F11)
 
-Apabila source code berada pada folder src:
 
-```bash
-g++ src/main.cpp -o ecommerce
-```
 
 ---
 
