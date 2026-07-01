@@ -163,10 +163,9 @@ Program menyediakan beberapa menu utama:
 Repository GitHub:
 
 ```
-https://github.com/username/nama-repository
+https://github.com/username/nama-repository](https://github.com/marsyawulandari/E-Commerce.git
 ```
 
-Ganti URL di atas sesuai repository GitHub yang digunakan.
 
 ---
 
