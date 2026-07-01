@@ -1,8 +1,7 @@
-# Sistem E-Commerce Integrated Structure System
-
+# E-Commerce Shopping
 ## Deskripsi
 
-Sistem E-Commerce Integrated Structure System merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa C++. Program ini mensimulasikan proses transaksi pada sebuah toko online dengan mengimplementasikan berbagai struktur data dalam satu aplikasi.
+Sistem E-Commerce Integrated Shopping merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa C++. Program ini mensimulasikan proses transaksi pada sebuah toko online dengan mengimplementasikan berbagai struktur data dalam satu aplikasi.
 
 Fitur utama yang tersedia antara lain:
 
